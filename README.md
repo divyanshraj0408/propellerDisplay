@@ -1,4 +1,4 @@
-# Propeller Display ![Demo on youtube](https://www.youtube.com/watch?v=0fN_Ydi534E&ab_channel=DivyanshRaj)
+# Propeller Display [Demo on youtube](https://www.youtube.com/watch?v=0fN_Ydi534E&ab_channel=DivyanshRaj)
 This is the code for my diploma's final year project.
 Me and my mates made a LED propeller display.
 

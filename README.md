@@ -14,3 +14,5 @@ Me and my mates made a LED propeller display.
 
 # About the hardware assembly
 ![image](https://github.com/divyanshraj0408/propellerDisplay/assets/73312468/fa312187-24ca-456d-9d63-6babf612b903)
+
+Made with my teammate [Adarsh Ranjan](https://www.linkedin.com/in/adarsh-ranjan-a222082a1/)
